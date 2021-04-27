@@ -48,6 +48,10 @@ header img {
   margin-bottom: 50px;
   width: calc(100% + (5vw / 2));
 }
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
 .list-img img {
   width: calc(100% / 6.3);
 }
