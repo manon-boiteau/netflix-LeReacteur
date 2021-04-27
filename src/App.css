@@ -1,1 +1,65 @@
-/* Other rules */
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap");
+
+/* Global rules */
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+  font-family: "Ubuntu", sans-serif;
+}
+.wrapper {
+  width: 95vw;
+  margin: 0 auto;
+}
+h2 {
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+a:hover {
+  color: white;
+  text-decoration: overline;
+}
+
+/* Header */
+header {
+  height: 90px;
+  margin-bottom: 50px;
+}
+header img {
+  width: 150px;
+  margin-left: -22px;
+}
+
+/* Section */
+.list-img {
+  display: flex;
+  overflow: hidden;
+  overflow-x: scroll;
+  margin-bottom: 50px;
+  width: calc(100% + (5vw / 2));
+}
+.list-img img {
+  width: calc(100% / 6.3);
+}
+
+/* Footer */
+footer {
+  background-color: #e30b15;
+  padding: 20px;
+}
+footer p {
+  font-weight: 300;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+}

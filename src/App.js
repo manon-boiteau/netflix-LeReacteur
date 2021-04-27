@@ -1,9 +1,16 @@
 import "./App.css";
 
+/* Import Components */
+import Header from "./components/Header";
+import Section from "./components/Section";
+import Footer from "./components/Footer";
+
 function App() {
   return (
     <div>
-      Hello from <a href="https://www.lereacteur.io">Le Reacteur !</a>
+      <Header />
+      <Section />
+      <Footer />
     </div>
   );
 }
