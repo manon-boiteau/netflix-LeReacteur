@@ -41,6 +41,7 @@ Simple project, simple installation.
 1️. Clone this repository
 
 `git clone https://github.com/manon-boiteau/netflix-LeReacteur.git`
+
 `cd netflix-LeReacteur`
 
 2️. Install packages
