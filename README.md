@@ -1,21 +1,56 @@
-# netflix-LeReacteur
+# NETFLIX HOME PAGE CLONE 🎞
 
-🗓 April 2021.  
-🪄 Frontend with ♥️ React - Netflix home page.  
-👉🏻 Check [that](https://mynetflix-lereacteur-2021.netlify.app/)
+🌤 April 2021  
+✨ Frontend  
+🔗 Netlify - check [that](https://mynetflix-lereacteur-2021.netlify.app/)
 
-## Welcome in my school exercice (Netflix home page) 📌
+## 🌈 Overview - Welcome dude
 
-### My work?
+---
 
-To familiarize with the framework React.js. Second project, sedond meeting with React.js 🤗 The difficulty was to cut the code into several components, so as to have a reusable and cleaner code.
+Netflix home page clone made at [Le Reacteur](https://www.lereacteur.io/) Bootcamp.  
+1 screen is available : Netflix home page.
 
-![Netflix desktop](src/assets/img/netflix-desktop.png)
+![Screen 1](src/assets/img/netflix-desktop.png)
 
-## Languages
+## 👩🏻‍💻 Tasks
 
-HTML5, CSS3 & React.js.
+---
 
-See you on the next React.js projects!
+✘ Create components  
+✘ Do integration (CSS and ReactJS)  
+✘ Make responsive
+
+## 📚 Stacks
+
+---
+
+[Javascript](https://www.w3schools.com/js/default.asp)  
+[ReactJS](https://fr.reactjs.org/docs/getting-started.html)  
+[HTML5](https://www.w3schools.com/html/default.asp)  
+[CSS3](https://www.w3schools.com/css/default.asp)
+
+## 🗝 Installation and usage
+
+---
+
+Simple project, simple installation.
+
+### 🚙 Running the project
+
+1️. Clone this repository
+
+`git clone https://github.com/manon-boiteau/netflix-LeReacteur.git`
+`cd netflix-LeReacteur`
+
+2️. Install packages
+
+`npm install`  
+or  
+`yarn`
+
+3️. When installation is complete:
+
+`yarn start`
 
 🙏🏻 Thank you @LeReacteur.
