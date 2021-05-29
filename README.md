@@ -1,6 +1,6 @@
 # NETFLIX HOME PAGE CLONE 🎞
 
-🌤 April 2021  
+⛅️ April 2021  
 ✨ Frontend  
 🔗 Netlify - check [that](https://mynetflix-lereacteur-2021.netlify.app/)
 
